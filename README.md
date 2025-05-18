@@ -1,4 +1,5 @@
-#Bucles for: Básico 1 (Core)
+# Bucles for: Básico 1 (Core)
+### Jorge R. Sepúlveda Turpie
 
 #### 1. Básico: imprime todos los números enteros del 0 al 100.
 ~~~
